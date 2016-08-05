@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38eb333615c52a14fbdc4a8348ab2a17, type: 3}
+  m_Name: BB8
+  m_EditorClassIdentifier: 
+  name: BB8
+  power: 2
+  streangth: 2
+  speed: 2
+  playerPrefap: {fileID: 187242, guid: 8bec32e2ab5ef1e4da46586bb9f53ec6, type: 2}
